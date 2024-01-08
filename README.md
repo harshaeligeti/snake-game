@@ -23,8 +23,9 @@ A classic Snake Game implemented in HTML, CSS, and JavaScript. Play the retro-st
 
 ## Getting Started
 
+To run the game locally, follow these steps:
+
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/harshaeligeti/snake-game.git
-cd snake-game
+git clone https://github.com/your-username/snake-game.git
